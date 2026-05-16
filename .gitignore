@@ -1,0 +1,17 @@
+**.py
+**.ipynb
+**.txt
+**.json
+**.pdf
+**.npy
+**.xlsx
+**.csv
+tex
+results
+results_old
+annotate
+data_raw
+papers
+videos_works
+data/clicked_pixel_and_bbbox_values
+data/tensor_results
